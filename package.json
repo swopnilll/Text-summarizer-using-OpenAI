@@ -1,0 +1,18 @@
+{
+  "name": "text-summarizer-using-openai",
+  "version": "1.0.0",
+  "description": "## Overview Text summarization is the process of generating a concise version of a longer text document while preserving its key information and core message. This project uses OpenAI to create an automated text summarization tool. The tool takes lengthy pieces of text, such as articles, research papers, or emails, and generates a shortened version that retains the essential meaning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.77.3"
+  }
+}
